@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="test">
     <h1>{{ message }}</h1>
   </div>
 </template>
@@ -18,4 +18,3 @@ export default {
   methods: {},
 };
 </script>
-
